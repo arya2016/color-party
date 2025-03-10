@@ -1,0 +1,17 @@
+h1{
+    color:whitesmoke;
+}
+buttons{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    overflow: hidden;
+    background-color: hotpink;
+    color: white;
+    border-color: black;
+}
+button:active{
+    color: cadetblue;
+}
